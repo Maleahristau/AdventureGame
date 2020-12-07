@@ -1,11 +1,14 @@
 # AdventureGame
 Midterm Project for Intro to Programming 
 
+![Title Image](/Extras/Title.png)
+
 ### By: Maleah Ristau (and it uses assets from https://textart.sh , https://ttsmp3.com/ and lots of help from Mike Hadley's Youtube Channel.)
 
 ## Logline: 
 Grocery Hunt, is a text based adventure, where you are tasked to get the items from the store. Each aisle has a different item and a new character to navigate. So take your time and hold back a laugh as you try to pick up a few things in this wacky adventure in Grocery Hunt!
 
+![Main Menu of the Game Image](/Extras/MainMenu.png)
 
 ## List of Items to collect
 
@@ -17,6 +20,7 @@ Grocery Hunt, is a text based adventure, where you are tasked to get the items f
 
 #### Banana - Located in aisle 4, granted when you pick strawberries.
 
+![Intro Image](/Extras/StoreFront.png)
 
 ## List of Endings
 
@@ -33,3 +37,5 @@ If the player gets no items, and goes right to the checkout the player will get 
 If a player says Chocolate to the women deciding on which milk to buy they will die from the woman's indecisiveness. (isle 1)
 
 If the player chooses to tap the round gentlemen they will trip and fall onto him causing the player to be sent to jail for murder, ending their shopping trip early.
+
+![Ghost Death Image](/Extras/GhostDeath.png)
