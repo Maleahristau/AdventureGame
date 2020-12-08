@@ -1,4 +1,4 @@
-# AdventureGame
+# Grocery Hunt - AdventureGame
 Midterm Project for Intro to Programming 
 
 ![Title Image](/Extras/Title.png)
